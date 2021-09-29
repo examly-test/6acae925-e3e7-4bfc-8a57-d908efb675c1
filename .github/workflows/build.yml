@@ -2,7 +2,7 @@ name: Build
 'on':
   push:
     branches:
-      - '*'
+      - Java-1
   pull_request:
     types:
       - opened
