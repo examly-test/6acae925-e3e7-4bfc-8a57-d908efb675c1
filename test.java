@@ -14,7 +14,8 @@ public class CopyArray {
            System.out.print(arr1[i] + " ");    
         }     
             
-        System.out.println();    
+        System.out.println();
+        local;
             
         //Displaying elements of array arr2     
         System.out.println("Elements of new array: ");    
